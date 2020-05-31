@@ -9,10 +9,10 @@
 # Customize
   
   Change <br>
-  "<database>" to mongodb database </br>
-  <collection> to mongodb collection </br>
-  <user name> to you mongodb database username <br>
-  <password> to you mongodb database password
+  database to mongodb database </br>
+  collection to mongodb collection </br>
+  username to you mongodb database username <br>
+  password to you mongodb database password
 
 
   
