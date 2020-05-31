@@ -8,7 +8,7 @@
   
 # Customize
   
-  Change 
+  Change <br>
   <database> to mongodb database </br>
   <collection> to mongodb collection </br>
   <user name> to you mongodb database username <br>
