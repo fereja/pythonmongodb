@@ -9,9 +9,9 @@
 # Customize
   
   Change 
-  <database> to mongodb database
-  <collection> to mongodb collection
-  <user name> to you mongodb database username
+  <database> to mongodb database </br>
+  <collection> to mongodb collection </br>
+  <user name> to you mongodb database username <br>
   <password> to you mongodb database password
 
 
